@@ -1,4 +1,5 @@
 body 
     {
         background-image: -moz-linear-gradient(to right top, #5dbc7e, #4bc5af, #65c9d2, #93cbe2, #bccee2, #ccd0e7, #ded1e8, #eed3e4, #ffcdd6, #ffccb7, #ffd593, #ebe67e);
+        background-image: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(25,25,190,1) 35%, rgba(0,212,255,1) 100%);
     }
