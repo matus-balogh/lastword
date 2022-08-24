@@ -1,9 +1,7 @@
 body 
     {
         background-image: linear-gradient(to right top, #5dbc7e, #4bc5af, #65c9d2, #93cbe2, #bccee2, #ccd0e7, #ded1e8, #eed3e4, #ffcdd6, #ffccb7, #ffd593, #ebe67e);
-        
+        .responsive {max-width: 100%;width: 100%;margin: auto;height: auto; border: #5dbc7e;border: 15px;}
     }
 
     h1 {font-family: 'Aboreto', cursive};
-
-.responsive{max-width: 100%;width: 100%;margin: auto;height: auto; border: #5dbc7e;border: 15px;}
