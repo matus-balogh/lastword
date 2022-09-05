@@ -16,6 +16,14 @@ body
 
 #shopifylogo {
     width: 100%;
-    max-width: 50px;
+    max-width: 150px;
     height: auto;
+}
+
+@media (min-width: 350px) {
+    font-size: 2.0em;
+}
+
+@media (min-width: 500px) {
+    font-size: 1.0em;
 }
